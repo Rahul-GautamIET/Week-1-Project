@@ -1,1 +1,1 @@
-# This is my first WEb Project!!
+# This is my first Web Project!!
